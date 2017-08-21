@@ -6,7 +6,7 @@
  * - 静電容量式タッチセンサーモジュール (TTP223) x2
  *
  * ライブラリ
- * - [DigitalTube liararies](https://github.com/reeedstudio/libraries/tree/master/DigitalTube)
+ * - [DigitalTube libraries](https://github.com/reeedstudio/libraries/tree/master/DigitalTube)
  */
 #include <Arduino.h>
 #include <TM1637.h>
